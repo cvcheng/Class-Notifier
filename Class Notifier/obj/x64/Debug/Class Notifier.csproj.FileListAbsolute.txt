@@ -1,0 +1,18 @@
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\x64\Debug\Class Notifier.exe.config
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\x64\Debug\Class Notifier.exe
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\x64\Debug\Class Notifier.pdb
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\x64\Debug\CefSharp.Core.dll
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\x64\Debug\CefSharp.dll
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\x64\Debug\CefSharp.WinForms.dll
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\x64\Debug\HtmlAgilityPack.dll
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\x64\Debug\CefSharp.WinForms.xml
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\x64\Debug\CefSharp.xml
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\x64\Debug\CefSharp.Core.xml
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\x64\Debug\HtmlAgilityPack.pdb
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\x64\Debug\HtmlAgilityPack.xml
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\obj\x64\Debug\Class Notifier.csprojResolveAssemblyReference.cache
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\obj\x64\Debug\Class_Notifier.Form1.resources
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\obj\x64\Debug\Class_Notifier.Properties.Resources.resources
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\obj\x64\Debug\Class Notifier.csproj.GenerateResource.Cache
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\obj\x64\Debug\Class Notifier.exe
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\obj\x64\Debug\Class Notifier.pdb

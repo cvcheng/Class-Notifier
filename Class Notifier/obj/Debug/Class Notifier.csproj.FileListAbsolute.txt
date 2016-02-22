@@ -1,0 +1,13 @@
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\Debug\Class Notifier.exe.config
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\Debug\Class Notifier.exe
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\Debug\Class Notifier.pdb
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\Debug\HtmlAgilityPack.dll
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\Debug\HtmlAgilityPack.pdb
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\bin\Debug\HtmlAgilityPack.xml
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\obj\Debug\Class Notifier.csprojResolveAssemblyReference.cache
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\obj\Debug\Class_Notifier.Form1.resources
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\obj\Debug\Class_Notifier.Properties.Resources.resources
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\obj\Debug\Class Notifier.csproj.GenerateResource.Cache
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\obj\Debug\Class Notifier.exe
+c:\users\wall-e\documents\visual studio 2015\Projects\Class Notifier\Class Notifier\obj\Debug\Class Notifier.pdb
+C:\Users\WALL-E\Documents\Visual Studio 2015\Projects\Class Notifier\Class Notifier\obj\Debug\Class_Notifier.Form2.resources
