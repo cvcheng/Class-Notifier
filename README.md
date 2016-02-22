@@ -3,11 +3,8 @@ Notifies you when a class in your cart is open and enrolls you. Only for those w
 
 ## Instructions
 1. Fill in settings and save them.
-
 ![](http://puu.sh/nhCef/89d45d65cc.png)
-
 2. Click "Start" on the icon in the app tray.
-
 ![](http://i.imgur.com/GvjtkWo.png)
 
 ## Features
